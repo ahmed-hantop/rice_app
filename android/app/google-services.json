@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000805189321",
+    "firebase_url": "https://rice-driver-app-default-rtdb.firebaseio.com",
+    "project_id": "rice-driver-app",
+    "storage_bucket": "rice-driver-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000805189321:android:4a28b15ef8a8d990c4ef18",
+        "android_client_info": {
+          "package_name": "com.example.rice_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000805189321-1m5oii3bgkp0gm8465th9bshqhtd8bg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdLuWwSu-rfBX8ph2U36wGXjpTmQgE9G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000805189321-1m5oii3bgkp0gm8465th9bshqhtd8bg6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000805189321-3bqgf7ufsmn1seilu2j8opvnhtbif4oc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ricedlivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
